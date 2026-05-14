@@ -4,11 +4,15 @@
 }
 
 body {
-  font-family: 'Jost';
+  font-family: 'Jost', verdana, arial, sans-serif;
 }
 
 h1, h2, h3 {
   text-align: center;
+}
+
+p {
+  font-size: 14pt;
 }
 
 a {
