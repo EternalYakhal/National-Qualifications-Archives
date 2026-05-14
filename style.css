@@ -7,7 +7,7 @@ body {
   font-family: "Jost", "Verdana", "Arial", sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   text-align: center;
 }
 
@@ -17,6 +17,7 @@ p {
 
 a {
   color: blue;
+  text-align: center;
 }
 
 a:hover {
